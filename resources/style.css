@@ -23,3 +23,19 @@ h2 {
   font-size: 32px;
   font-weight: bold;
 }
+.NY {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.bottom {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+#logo {
+  font-size: 11px;
+}
+a {
+  color: white;
+}
