@@ -7,3 +7,19 @@ h1 {
   font-weight: bold;
   color: white;
 }
+.image {
+  background-image: url("./images/the-flatiron-building.png");
+  background-position: center;
+  background-size: cover;
+}
+p {
+  font-size: 14px;
+}
+.menu p {
+  font-size: 18px;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
